@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+CSE_6363_Machine_Learning_Programming_Assignment.ipynb
+assignment2.py
+assignment2.txt
+*.pyc
+readme.txt
+venv/
